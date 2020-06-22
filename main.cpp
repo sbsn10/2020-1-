@@ -26,7 +26,7 @@ int main()
 			list(PB);
 			break;
 		case 5:
-			cout << "ÇÁ·Î±×·¥ Á¾·á" << endl;
+			cout << "í”„ë¡œê·¸ë¨ " << endl;
 			getchar();
 			return 0;
 		}
