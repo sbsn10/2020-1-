@@ -26,7 +26,7 @@ int main()
 			list(PB);
 			break;
 		case 5:
-			cout << "프로그램 " << endl;
+			cout << "프로그램 종료 " << endl;
 			getchar();
 			return 0;
 		}
